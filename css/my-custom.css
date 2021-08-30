@@ -1,0 +1,28 @@
+.avatar {
+  width: 100%;
+
+  display: flex;
+  justify-content: left;
+  padding-top: 10px;
+  padding-left: 0;
+  margin-left: 0px;
+}
+.con {
+  width: 100%;
+  margin-left: 0%;
+}
+.about {
+  padding: 10% 10%;
+  margin-left: 100px;
+}
+.text p {
+  text-align: left;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
+.text h2 {
+  padding-top: 5%;
+  text-align: center;
+  font-weight: bolder;
+}
